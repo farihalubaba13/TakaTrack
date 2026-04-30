@@ -1,0 +1,24 @@
+finOX – Budget Planner Application
+
+What is it?
+finOX is a console-based personal finance tool I built in C++ to help people manage monthly budgets without getting overwhelmed. Think of it as a financial breath of fresh air – simple, transparent, and actually useful.
+
+
+How it works?
+You tell finOX about your family, income, and where you live, and it automatically generates a realistic budget based on your situation. Single student in Dhaka? Working couple in Chattogram? Family with two kids in Khulna? finOX adjusts the budget categories and percentages to match your lifestyle and local cost of living.
+
+
+What you can do?
+Create a budget plan – Add family members, set incomes, pick your family type
+
+Track spending – Update expenses category by category, see what's left
+
+View history – Check how you did in previous months (savings rate, overspending, etc.)
+
+Save & load – Your data persists between sessions – no re-entering everything
+
+Get color-coded warnings – Green means good, yellow means caution, red means you're overspending
+
+
+Why I built finOX?
+Most budgeting apps are either too complicated or locked behind subscriptions. I wanted something simple, transparent, and customizable. Plus, it was a great way to practice file handling, data structures, and making a text-based program feel smooth and intuitive.
