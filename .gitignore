@@ -1,0 +1,16 @@
+# Compiled Files
+*.exe
+*.o
+*.obj
+
+# Code::Blocks Files
+bin/
+obj/
+*.cbp
+*.layout
+*.depend
+
+# Data files created by the program (Personal Data)
+users.txt
+budget_plan*.txt
+monthly_history*.txt
