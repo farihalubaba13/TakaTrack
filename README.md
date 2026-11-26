@@ -133,6 +133,7 @@ The whole program is in one file. Inside, it is divided into sections: colors, d
 
 ## Academic Information
 
-- **Course:** SDP I (Software Development Project I)
+- **Course Title:** SDP I (Software Development Project I)
+- **Course Code:** CSE 100
 - **Year:** 1st Year
 - **Semester:** 2nd Semester
