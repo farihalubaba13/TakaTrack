@@ -8,7 +8,9 @@ TakaTrack helps a person or a family plan their monthly budget in Taka (BDT). Yo
 
 After making the plan, the program checks if the budget is practical for your family size and area. For example, it checks if there is enough money for food and if you are saving enough. If something is wrong, it fixes the plan by moving money between categories. During the month you can record what you spend, and later you can look at your previous months.
 
-This project was first called finOX. Later it was renamed to TakaTrack.
+# Project Name History
+
+This project was first developed under the name **finOX**. Later, it was renamed to **TakaTrack**. The updated version of this project is a desktop application made with Python, and it uses the name **finOX** again. This repository has the C++ console version, **TakaTrack**.
 
 ## Purpose
 
