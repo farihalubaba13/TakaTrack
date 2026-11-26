@@ -2928,7 +2928,7 @@ bool mainMenu()
                 printColored("\nSaving data before exit...\n", YELLOW);
                 saveBudgetPlan();
             }
-            printColored("Thank you for using TakaTracker!\n", BRIGHT_GREEN);
+            printColored("Thank you for using TakaTrack!\n", BRIGHT_GREEN);
             break;
         }
     }
@@ -2940,7 +2940,7 @@ bool mainMenu()
 //  MAIN FUNCTION
 int main()
 {
-    SetConsoleTitleA("TakaTracker");
+    SetConsoleTitleA("TakaTrack");
 
     printColored("================================================\n", BRIGHT_GREEN);
     printColored("              WELCOME TO TakaTrack \n", BRIGHT_MAGENTA);
